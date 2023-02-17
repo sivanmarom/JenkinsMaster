@@ -1,0 +1,2 @@
+{"Item":{"id":{"N":"2"},"age":{"N":"10"},"newlist":{"NS":["2","1"]},"height":{"N":"183"}}}
+{"Item":{"id":{"N":"1"},"age":{"N":"10"},"name":{"S":"sivan"},"visa":{"BOOL":true}}}
